@@ -1,0 +1,4 @@
+plexapi
+pylast
+Flask
+python-dotenv
