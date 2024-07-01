@@ -1,6 +1,6 @@
 # Plex to Last.fm Scrobbler
 
-This project is a Python script that integrates Plex Media Server with Last.fm, allowing you to scrobble your music plays from Plex to your Last.fm account.
+This project is a Python script that integrates Plex Media Server with Last.fm, allowing you to scrobble your music plays from Plex to your Last.fm account using the "Scrobbling now" feature that is missing from official Plex LastFm integration.
 
 ## Features
 
