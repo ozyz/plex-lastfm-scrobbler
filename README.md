@@ -40,7 +40,7 @@ LASTFM_API_SECRET=your-lastfm-api-secret
 ## Usage
 
 1. Run the script:
-```python main.py```
+```python plex_lastfm_scrobbler.py```
 
 2. The script will prompt you to authorize the application with Last.fm if it's the first time running.
 
